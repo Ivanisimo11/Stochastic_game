@@ -5,7 +5,6 @@ import java.util.Stack;
 public class Bot {
     private int[][] board;
 
-
     public Bot(int[][] board) {
         this.board = board;
     }

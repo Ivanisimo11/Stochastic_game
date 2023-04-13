@@ -53,7 +53,6 @@ class Board extends JPanel implements MouseListener {
         return board;
     }
 
-
     public void mousePressed(MouseEvent e) {}
     public void mouseReleased(MouseEvent e) {}
     public void mouseEntered(MouseEvent e) {}
