@@ -1,4 +1,4 @@
-package go;
+package game;
 
 import java.util.Stack;
 
